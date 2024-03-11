@@ -1,4 +1,4 @@
-### IntroToDistributedSystems
+
 
 ## ZooKeeper Peer Server Implementation
 # Overview
